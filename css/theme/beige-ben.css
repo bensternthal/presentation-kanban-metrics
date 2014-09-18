@@ -144,6 +144,6 @@ body {
  * CUSTOM
  *********************************************/
 .ff {
-  background: url('/images/fox.png') no-repeat bottom left;
+  background: url('images/fox.png') no-repeat bottom left;
 }
 
